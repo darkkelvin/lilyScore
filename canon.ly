@@ -38,6 +38,7 @@
 
   g'8 b'16 a' g'8 fis'16 e'
   fis'16 e' d' e' fis' g' a' b'
+  
   g'8 b'16 a' b'8 cis''16 d''
   a'16 b' cis'' d'' e'' fis'' g'' a'' 
 } {
