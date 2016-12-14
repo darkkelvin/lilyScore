@@ -4,10 +4,10 @@
   \clef bass
   \key d \major
   
-  d4 r a,2
-  b,4 r fis,2
-  g,4 r d,2
-  g,4 r a,2
+  d2 a,2
+  b,2 fis,2
+  g,2 d,2
+  g,2 a,2
   
   \clef treble
   \key d \major
@@ -41,11 +41,32 @@
   
   g'8 b'16 a' b'8 cis''16 d''
   a'16 b' cis'' d'' e'' fis'' g'' a'' 
-} {
+} \\ {
   d''2 a'
   b' fis'
   g' d'
   g' a'
 } >>
   
+<< {
+  fis''8 d''16 e'' fis''8 e''16 d''
+  e''16 cis'' d'' e'' fis'' e'' d'' cis''
+  
+  d''8 b'16 cis'' d''8 d'16 e'
+  fis'16 g' fis' e' fis' d'' cis'' d''
+
+  b'8 d''16 cis'' b'8 a'16 g'
+  a'16 g' fis' g' a' b' cis'' d''
+  
+  b'8 d''16 cis'' d''8 cis''16 b'
+  cis''16 d'' e'' d'' cis'' d'' b' cis''
+} \\ {
+  d''2 a'
+  b' fis'
+  g' d'
+  g' a'
+} >>
+
+d''1
+
 }
