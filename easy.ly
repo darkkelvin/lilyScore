@@ -4,6 +4,6 @@
   \clef treble
   \key c \major
   
-  c' d' e' f' g' a' b' c''
+  c' d' ees' f' g' aes' b' c''
 
 }
